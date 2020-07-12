@@ -11,7 +11,6 @@
      
      printf("Brent Fairchild!\n");
      printf("Electrical Engineering");
-     printf("Undergrad");
      
      return 0; 
      
