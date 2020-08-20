@@ -1,6 +1,6 @@
 /**
  * Author Brent Fairchild
- * Date 2020
+ * Date 2020/08/20
  *
  * A simple hello world program
  */
