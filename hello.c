@@ -1,5 +1,6 @@
 /**
- * Author Brent Fairchild and Spencer SChmidt
+ * Author Brent Fairchild bfairchild3@huskers.unl.edu
+ * Spencer SChmidt sschmidt21@huskers.unl.edu
  * Date 2020/08/20
  *
  * A simple hello world program
